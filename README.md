@@ -8,8 +8,8 @@ Este artigo apresenta um estudo prático sobre a aplicação da análise de sent
 
 ---
 
-## 🚀 **Introdução ao Language Studio**  
-O **Language Studio** é uma plataforma baseada na nuvem que oferece diversas ferramentas de NLP, incluindo:  
+## 🚀 **Language Studio**  
+É uma plataforma baseada na nuvem que oferece diversas ferramentas de NLP, incluindo:  
 
 ✅ **Análise de Sentimentos** – Identifica emoções predominantes (*positivas, neutras ou negativas*) em um texto.  
 🔍 **Extração de Palavras-Chave** – Destaca termos relevantes dentro de uma frase.  
